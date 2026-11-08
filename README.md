@@ -1,5 +1,5 @@
 # CompanyOps
-[![License: MIT](https://shields.io)](https://opensource.org)
+[![GitHub license](https://shields.io)](https://github.com)
 
 Agentic assistants for Company Operations
 
