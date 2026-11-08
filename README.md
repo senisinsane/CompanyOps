@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/senisinsane/CompanyOps)](https://github.com/senisinsane/CompanyOps)
 
-Agentic assistants for Company Operations.
+Building an AI workforce for the one-person company. Zero AI slop. Maximum leverage.
 
 ## License
 
