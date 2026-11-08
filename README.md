@@ -1,6 +1,6 @@
 # CompanyOps
 
-[![GitHub license](https://img.shields.io/github/license/OWNER/REPO)](https://github.com/OWNER/REPO)
+[![GitHub license](https://img.shields.io/github/license/senisinsane/CompanyOps)](https://github.com/senisinsane/CompanyOps)
 
 Agentic assistants for Company Operations.
 
